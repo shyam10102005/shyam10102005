@@ -59,7 +59,6 @@ I am a B.Tech student specializing in **Artificial Intelligence and Data Analyti
 - **Tech:** Gmail API, WhatsApp Business API.
 - **Highlights:** Automated forwarding of OTPs, leads, and critical alerts to drastically improve response speed.
 
-
 ---
 
 ## 📊 GitHub Stats
