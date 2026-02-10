@@ -59,11 +59,6 @@ I am a B.Tech student specializing in **Artificial Intelligence and Data Analyti
 - **Tech:** Gmail API, WhatsApp Business API.
 - **Highlights:** Automated forwarding of OTPs, leads, and critical alerts to drastically improve response speed.
 
-
----
-
-
-
 ---
 
 ## 📫 Connect with Me
@@ -72,7 +67,7 @@ I am a B.Tech student specializing in **Artificial Intelligence and Data Analyti
   <a href="https://linkedin.com/in/shyam-ganesh-s-556ab4373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://shyam10102005.github.io/Shyam-Ganesh-S-Portfolio/#/" target="_blank">
+  <a href="https://shyamganeshsportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:shyamganesh1005@gmail.com">
